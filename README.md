@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Julian Mathew M. Guintu, and I am studying Bachelor of Science in Computer Science at Holy Angel University.<br>I am from Angeles City, and my passion is to become a Manual/Automation Quality Assurance Software Tester or an Automation Engineer.
+Hi, my name is Julian Mathew M. Guintu, and I am studying Bachelor of Science in Computer Science at Holy Angel University.<br>I am from Angeles City, Pampanga, and my passion is to become a Manual/Automation Quality Assurance Software Tester or an Automation Engineer.
 
 
 ## 🌐 Socials:
