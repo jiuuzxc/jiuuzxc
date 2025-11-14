@@ -1,4 +1,4 @@
-![github_banner](https://github.com/jiuuzxc/jiuuzxc/blob/main/github_banner.png)
+![github_banner](https://github.com/jiuuzxc/jiuuzxc/blob/main/spinning_L.gif)
 
 # 💫 About Me:
 Hi, my name is Julian Mathew M. Guintu from Angeles City, Pampanga, and I am currently studying Bachelor of Science in Computer Science at Holy Angel University.
